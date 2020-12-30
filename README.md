@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello 
+### 👋
+你好 Hello 
 
 <!--
 **Moriafly/Moriafly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
