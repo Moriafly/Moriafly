@@ -1,20 +1,14 @@
 ### 👋
 你好 Hello 
 
-<!--
-**Moriafly/Moriafly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Toilers from shops and fields united,
+The union we of all who work:
+The earth belongs to us, the workers,
+No room here for the shirk.
+How many on our flesh have fattened!
+But if the noisome birds of prey
+Shall vanish from the sky some morning,
+The blessed sunlight still will stay.
 
 ![Moriafly's github stats](https://github-readme-stats.vercel.app/api?username=Moriafly&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
 
