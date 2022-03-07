@@ -1,4 +1,4 @@
-![已有怎么多人瞟了我一眼](https://gpvc.arturio.dev/Moriafly)
+![Profile views](https://gpvc.arturio.dev/Moriafly)
 
 关注下我吧！
 
