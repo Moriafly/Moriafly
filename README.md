@@ -1,19 +1,32 @@
 ![Profile views](https://gpvc.arturio.dev/Moriafly)
 
-hold me
-love me
-this is just like a dream
-i'm coming cry
-but i can't cry
+Hold me
+
+Love me
+
+This is just like a dream
+
+I'm coming cry
+
+But i can't cry
+
 Let me let me choose
-and i hope it always grow my heart
-hold me
-love me
-this is just like a dream
-can't you see...
-can't you see us?
-those far
-hold me...
+
+And i hope it always grow my heart
+
+Hold me
+
+Hove me
+
+This is just like a dream
+
+Can't you see...
+
+Can't you see us?
+
+Those far
+
+Hold me...
 
 ![Moriafly's github stats](https://github-readme-stats.vercel.app/api?username=Moriafly&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
 
