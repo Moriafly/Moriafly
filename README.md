@@ -16,7 +16,7 @@ And I hope it always grow my heart
 
 Hold me
 
-Hove me
+Love me
 
 This is just like a dream
 
