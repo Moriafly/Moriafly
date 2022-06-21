@@ -12,7 +12,7 @@ But i can't cry
 
 Let me let me choose
 
-And i hope it always grow my heart
+And I hope it always grow my heart
 
 Hold me
 
