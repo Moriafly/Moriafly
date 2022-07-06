@@ -8,7 +8,7 @@ This is just like a dream
 
 I'm coming cry
 
-But i can't cry
+But I can't cry
 
 Let me let me choose
 
