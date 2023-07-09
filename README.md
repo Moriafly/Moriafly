@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Moriafly)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moriafly&theme=onedark)](https://github.com/Moriafly/github-profile-trophy)
 
 Hold me
 
