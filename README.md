@@ -1,8 +1,10 @@
 # Moriafly
 
+士别三日，即更刮目相待。
+
 - 年龄：24
 - 专业：软件工程
-- 擅长：音频、Kotlin、Android、Compsoe Multiplatform
+- 擅长：Android、Kotlin、Compose Multiplatform、音频
 - 城市：上海、杭州
 - 热爱：分享故事和创造事故
 - 梦想：收购 TME
