@@ -1,7 +1,5 @@
 # Moriafly
 
-士别三日，即更刮目相待。
-
 - 年龄：24
 - 专业：软件工程
 - 擅长：Android、Kotlin、Compose Multiplatform、音频
@@ -10,7 +8,7 @@
 - 梦想：收购 TME
 - 工作状态：独立开发
 - 工作薪水：看运气
-- 工作期望：我不想努力了，Offer 接收邮箱 moriafly@163.com
+- 联系方式：moriafly@163.com
 
 ## 软件
 
@@ -29,5 +27,7 @@
 - Dso Music
 - Salt UI
 - LyricViewX
+- Media Kit
+- Salt Audio Tag
 
 等等
