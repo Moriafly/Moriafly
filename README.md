@@ -1,6 +1,5 @@
 # Moriafly
 
-- 年龄：24
 - 专业：软件工程
 - 擅长：Android、Kotlin、Compose Multiplatform、音频
 - 城市：上海、杭州
